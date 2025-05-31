@@ -1,0 +1,6 @@
+{
+  "mode": "master",
+  "client_limit": "unlimited",
+  "features": ["PDF_EXPORT", "FORTUNE_ENGINE", "VOICE_MODULE"],
+  "language": ["TH", "EN", "JP", "KR", "ZH"]
+}
