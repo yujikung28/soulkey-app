@@ -24,3 +24,15 @@ pip install -r requirements.txt
 
 # รันโปรแกรม
 python main.py
+
+เปิดเว็บที่ http://localhost:5000
+
+⸻
+
+Status
+
+⚠️ โปรเจกต์นี้เป็น Prototype/Test
+ใช้เพื่อทดลอง logic ของ Soulkey Master Mode เท่านั้น
+ยังไม่ใช่ Production
+
+
