@@ -35,4 +35,15 @@ Status
 ใช้เพื่อทดลอง logic ของ Soulkey Master Mode เท่านั้น
 ยังไม่ใช่ Production
 
+⸻
+
+Knowledge Base & Docs
+
+Repo นี้ยังใช้เก็บ เอกสาร, ตำรา, และความรู้ ของ Soulkey ด้วย
+	•	/public/files/ → เก็บไฟล์จริง (.pdf, .docx, .csv)
+	•	/docs/ → Markdown / Note (อ่านผ่าน GitHub Pages)
+
+📖 Knowledge Site: https://yujikung28.github.io/soulkey-app/
+
+
 
